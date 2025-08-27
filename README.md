@@ -90,7 +90,7 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Tí
 
 1) **Cenário de Análise/Problema**
 
-2) ## **Questões de Refinamento**
+2) **Questões de Refinamento**
 
 3) **Refinamento do Cenário Análise/Problema**
 
