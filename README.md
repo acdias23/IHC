@@ -8,13 +8,6 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Tí
 - Nome Componente 2
 - Nome Componente 3
 
-**Projeto de IHC**
-
-**Projeto XX**
-
-**\<colocar o título do projeto\>**
-
-**Membros de Equipe:**
 
 # **Entrega 1 (data) \[em andamento/concluído\]**
 
